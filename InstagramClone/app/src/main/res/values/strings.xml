@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <string name="add_post">Add Post</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="signout">Signout</string>
+    <string name="quit">Quit</string>
+    <string name="go_back">Go Back</string>
+</resources>
